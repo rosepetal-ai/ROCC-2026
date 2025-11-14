@@ -52,11 +52,11 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 ## 🧾 Submission & Evaluation  
 
 - 📂 **Submission folder:**  
-[rosepetal-ai/ROCC-2025](https://github.com/rosepetal-ai/ROCC-2025/)
+[rosepetal-ai/ROCC-2025/projectName](https://github.com/rosepetal-ai/ROCC-2025/)
 
 - 🧑‍💻 **File naming format:**
-   - author_name.py // Python
-   - author_name.js // Node.js
+   - rocc25-projectName.py // Python
+   - rocc25-projectName.js // Node.js
    - README.md // short description
 
 - 🧑‍⚖️ **Judging panel:** 3 members of the technical team.  
