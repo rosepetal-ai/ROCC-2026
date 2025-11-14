@@ -43,7 +43,7 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 
 | 🏅 Place | 💎 Reward | 🌸 Petal Equivalent |
 |----------|-----------|---------------------|
-| 🥇 **Grand Champion** | 300 petals | One Friday off or free entry to the next contest |
+| 🥇 **Grand Champion** | 300 petals | The GOAT |
 | 🥈 **Honorable Chaos** | 200 petals | Exclusive “Rosepetal Obfuscator” merch |
 | 🥉 **WTF Award** | 100 petals | Limited-edition sticker pack |
 
