@@ -55,11 +55,9 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 [rosepetal-ai/ROCC-2025](https://github.com/rosepetal-ai/ROCC-2025/)
 
 - 🧑‍💻 **File naming format:**
-``` 
-author_name.py // Python
-author_name.js // Node.js
-README.md // short description
-```
+   - author_name.py // Python
+   - author_name.js // Node.js
+   - README.md // short description
 
 - 🧑‍⚖️ **Judging panel:** 3 members of the technical team.  
 - 🔢 **Scoring criteria (0–10 each):**
@@ -88,11 +86,9 @@ and readable code is considered a mortal sin.
  ```bash
  git checkout -b obfuscated-[your-name]
 ```
-Add your files to the contest directory.
-
-Open a Pull Request titled:
-[CONTEST] The Rosepetal Obfuscated Code Contest - [your name]
-Wait for the judges (if they dare) to read your code.
+4. Add your files to the contest directory.
+5. Open a Pull Request titled: [CONTEST] The Rosepetal Obfuscated Code Contest - [your name]
+6. Wait for the judges (if they dare) to read your code.
 
 ---
 
