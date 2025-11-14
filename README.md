@@ -37,11 +37,11 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
    - **If it makes the code more twisted or bizarre, it’s valid.**  
    - Bonus points for AI-generated structures that confuse both human and machine.  
 7. **Judging criteria (0–10 each):**
-   - 🌀 **Obfuscation**  
-   - ⚙️ **Functionality**  
-   - 🧬 **Creativity**  
+   - 🌀 **Obfuscation** – the more confusing, the better.
+   - 🧬 **Technical creativity** – artistic abuse of lambdas, closures, metaclasses, prototypes, etc.
+   - ⚙️ **Functionality** – it must *do something real* (however absurdly).
    - 🤖 **AI Usage** – inventive or chaotic use of AI is rewarded  
-   - 🎭 **Style & Humor**  
+   - 🎭 **Style & humor** – balance between the twisted, inhuman, funny, astonishing, and bizarre. Internal jokes, self-references, or delightful nonsense encouraged.
 8. **Maximum file size:**  
    - **8 KB per source file**, measured exactly as in IOCCC rules (raw bytes, no compression).  
    - Reason: Python and Node naturally require more syntactic overhead than C.  
@@ -51,7 +51,7 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
    - No infinite loops that freeze the judge’s machine.  
    - No malicious payloads or security exploits (obfuscation ≠ hacking).  
    - The code must run within **30 seconds** on a normal laptop.  
-10. Each submission must include a short comment (max 100 words) explaining “what the code supposedly does.”  
+11. Each submission must include a short comment (max 100 words) explaining “what the code supposedly does.”  
 
 ---
 
