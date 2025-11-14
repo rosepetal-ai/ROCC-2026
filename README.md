@@ -55,8 +55,8 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 [rosepetal-ai/ROCC-2025/projectName](https://github.com/rosepetal-ai/ROCC-2025/)
 
 - 🧑‍💻 **File naming format:**
-   - rocc25-projectName.py // Python
-   - rocc25-projectName.js // Node.js
+   - script.py // Python
+   - script.js // Node.js
    - README.md // short description
 
 - 🧑‍⚖️ **Judging panel:** 3 members of the technical team.  
