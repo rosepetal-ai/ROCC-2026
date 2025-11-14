@@ -3,12 +3,7 @@
 
 ---
 
-## 📋 Candidates
-
-   - Obfuscation  
-   -  
-   - Creativity  
-   - Humor & style  
+## 📋 Participants
 
 | 👤 Author | 💻 Language | 🌀 Obfuscation | ⚙️ Functionality | 🧬 Creativity | 🎭 Humor & style | 🧮 Total Score | 🏆 Status |
 |-----------|-------------|----------------|------------------|---------------|------------------|----------------|------------|
