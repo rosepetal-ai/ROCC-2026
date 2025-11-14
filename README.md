@@ -5,9 +5,14 @@
 
 ## 📋 Candidates
 
-| 👤 Author | 💻 Language | 🌀 Obfuscation | 🧮 Total Score | 🏆 Status |
-|-----------|-------------|----------------|----------------|-----------|
-| *(add here)* | *(Python / Node)* | *(0–10)* | *(0–40)* | *(Participating / Winner)* |
+   - Obfuscation  
+   -  
+   - Creativity  
+   - Humor & style  
+
+| 👤 Author | 💻 Language | 🌀 Obfuscation | ⚙️ Functionality | 🧬 Creativity | 🎭 Humor & style | 🧮 Total Score | 🏆 Status |
+|-----------|-------------|----------------|------------------|---------------|------------------|----------------|------------|
+| *(add here)* | *(Python / Node)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–40)* | *(Participating / Winner)* |
 
 ---
 
@@ -63,10 +68,10 @@ README.md // short description
 
 - 🧑‍⚖️ **Judging panel:** 3 members of the technical team.  
 - 🔢 **Scoring criteria (0–10 each):**
-- Obfuscation  
-- Functionality  
-- Creativity  
-- Humor & style  
+   - Obfuscation  
+   - Functionality  
+   - Creativity  
+   - Humor & style  
 
 ---
 
@@ -83,7 +88,7 @@ and readable code is considered a mortal sin.
 1. **Register first** by submitting a *Reward Request* on:  
  👉 https://team.rosepetal.ai  
 2. Wait for your registration to be **approved**.  
- - ⚠️ *PRs will not be accepted unless the participant is registered and approved.*  
+ ⚠️ *PRs will not be accepted unless the participant is registered and approved.*  
 3. Create a new branch or fork:  
  ```bash
  git checkout -b obfuscated-[your-name]
