@@ -7,7 +7,7 @@
 
 | 👤 Author | 💻 Language | 🌀 Obfuscation | ⚙️ Functionality | 🧬 Creativity | 🤖 AI Usage | 🎭 Humor & Style | 🧮 Total Score | 🏆 Status |
 |-----------|-------------|----------------|------------------|---------------|-------------|------------------|----------------|------------|
-| *(add here)* | *(Python / Node)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–60)* | *(Participating / Winner)* |
+| *(add here)* | *(Python / Node)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–50)* | *(Participating / Winner)* |
 
 ---
 
