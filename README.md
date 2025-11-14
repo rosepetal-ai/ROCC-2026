@@ -5,9 +5,9 @@
 
 ## 📋 Participants
 
-| 👤 Author | 💻 Language | 🌀 Obfuscation | ⚙️ Functionality | 🧬 Creativity | 🎭 Humor & style | 🧮 Total Score | 🏆 Status |
-|-----------|-------------|----------------|------------------|---------------|------------------|----------------|------------|
-| *(add here)* | *(Python / Node)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–40)* | *(Participating / Winner)* |
+| 👤 Author | 💻 Language | 🌀 Obfuscation | ⚙️ Functionality | 🧬 Creativity | 🤖 AI Usage | 🎭 Humor & Style | 🧮 Total Score | 🏆 Status |
+|-----------|-------------|----------------|------------------|---------------|-------------|------------------|----------------|------------|
+| *(add here)* | *(Python / Node)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–60)* | *(Participating / Winner)* |
 
 ---
 
@@ -27,15 +27,31 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 3. **No linters or prettifiers allowed.** Clean code is not the spirit of this competition.  
 4. **Mandatory pre-registration:**  
    - Participants **must** submit a reward request through **https://team.rosepetal.ai** before submitting a PR.  
-   - Only PRs from participants whose registration has been **approved** will be considered valid entries.  
-5. **Judging criteria:**
-   - 🌀 **Obfuscation** – the more confusing, the better.  
-   - 🧬 **Technical creativity** – artistic abuse of lambdas, closures, metaclasses, prototypes, etc.  
-   - 💫 **Aesthetics of chaos** – balance between the twisted, inhuman, funny, astonishing, and bizarre.  
-   - ⚙️ **Functionality** – it must *do something real* (however absurdly).  
-   - 🎭 **Style & humor** – internal jokes, self-references, or delightful nonsense encouraged.  
-6. **Maximum file size:** 4 KB.  
-7. Each submission must include a short comment (max 100 words) explaining “what the code supposedly does.”  
+   - Only PRs from approved participants will be considered official entries.  
+5. **External libraries are allowed.**  
+   - Python: `pip install ANYTHING`  
+   - Node.js: `npm install ANYTHING`  
+   - Using obscure, cursed, or deprecated libraries is highly encouraged.  
+6. **AI usage is allowed – and valued.**  
+   - Local models, API calls, fine-tuned models, agents, LLMs, diffusion models…  
+   - **If it makes the code more twisted or bizarre, it’s valid.**  
+   - Bonus points for AI-generated structures that confuse both human and machine.  
+7. **Judging criteria (0–10 each):**
+   - 🌀 **Obfuscation**  
+   - ⚙️ **Functionality**  
+   - 🧬 **Creativity**  
+   - 🤖 **AI Usage** – inventive or chaotic use of AI is rewarded  
+   - 🎭 **Style & Humor**  
+8. **Maximum file size:**  
+   - **8 KB per source file**, measured exactly as in IOCCC rules (raw bytes, no compression).  
+   - Reason: Python and Node naturally require more syntactic overhead than C.  
+9. **Additional limits:**  
+   - No auto-downloading multi-MB dependencies at runtime.  
+   - No network calls to external services **unless they are part of the intended AI usage**.  
+   - No infinite loops that freeze the judge’s machine.  
+   - No malicious payloads or security exploits (obfuscation ≠ hacking).  
+   - The code must run within **30 seconds** on a normal laptop.  
+10. Each submission must include a short comment (max 100 words) explaining “what the code supposedly does.”  
 
 ---
 
@@ -52,19 +68,20 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 ## 🧾 Submission & Evaluation  
 
 - 📂 **Submission folder:**  
-[rosepetal-ai/ROCC-2025/projectName](https://github.com/rosepetal-ai/ROCC-2025/)
+  [rosepetal-ai/ROCC-2025/projectName](https://github.com/rosepetal-ai/ROCC-2025/)
 
-- 🧑‍💻 **File naming format:**
-   - script.py // Python
-   - script.js // Node.js
-   - README.md // short description
+- 🧑‍💻 **File naming format:**  
+   - `script.py` // Python  
+   - `script.js` // Node.js  
+   - `README.md` // short description  
 
 - 🧑‍⚖️ **Judging panel:** 3 members of the technical team.  
-- 🔢 **Scoring criteria (0–10 each):**
+- 🔢 **Scoring criteria (0–10 each):**  
    - Obfuscation  
    - Functionality  
    - Creativity  
-   - Humor & style  
+   - AI Usage  
+   - Humor & Style  
 
 ---
 
