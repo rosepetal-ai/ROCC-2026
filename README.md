@@ -14,7 +14,7 @@
 ## 🎯 Objective  
 
 To challenge the creativity, technical mastery, and beautifully chaotic minds of Rosepetal’s developers.  
-The goal: write the most **obfuscated, absurd, hilarious, and brilliant** program possible in **Python**, **Node.js**, or Node-RED — that actually works… even if no one (including you) understands why.  
+The goal: write the most **obfuscated, absurd, hilarious, and brilliant** program possible in **Python**, **Node.js**, or **Node-RED** — that actually works… even if no one (including you) understands why.  
 
 We celebrate code that is **twisted in logic, inhuman in structure, funny in intention, astonishing in execution, and delightfully bizarre at its core.**
 
