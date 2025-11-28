@@ -72,7 +72,8 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 
 - 🧑‍💻 **File naming format:**  
    - `script.py` // Python  
-   - `script.js` // Node.js  
+   - `script.js` // Node.js
+   - `flows.json` // Node-RED
    - `README.md` // short description  
 
 - 🧑‍⚖️ **Judging panel:** 3 members of the technical team.  
