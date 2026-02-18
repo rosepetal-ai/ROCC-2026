@@ -1,4 +1,4 @@
-# 🧠 The Rosepetal Obfuscated Code Contest 2025
+# 🧠 The Rosepetal Obfuscated Code Contest 2026
 **“Write code so clever that even you can’t debug it tomorrow.”**
 
 ---
@@ -14,7 +14,7 @@
 ## 🎯 Objective  
 
 To challenge the creativity, technical mastery, and beautifully chaotic minds of Rosepetal’s developers.  
-The goal: write the most **obfuscated, absurd, hilarious, and brilliant** program possible in **Python**, **Node.js**, or **Node-RED** — that actually works… even if no one (including you) understands why.  
+The goal: write the most **obfuscated, absurd, hilarious, and brilliant** **Node-RED** flow — that actually works… even if no one (including you) understands why.  
 
 We celebrate code that is **twisted in logic, inhuman in structure, funny in intention, astonishing in execution, and delightfully bizarre at its core.**
 
@@ -22,15 +22,13 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 
 ## ⚙️ Official Rules  
 
-1. **Allowed languages:** Python or Node.js.  
+1. **Allowed languages:** Python or Node.js inside Node-RED
 2. **It must run successfully.** The program must produce a specific output or perform a defined task (e.g., _“print a haiku about AI”_ or _“simulate a depressed robot”_).  
 3. **No linters or prettifiers allowed.** Clean code is not the spirit of this competition.  
 4. **Mandatory pre-registration:**  
    - Participants **must** submit a reward request through **https://team.rosepetal.ai** before submitting a PR.  
    - Only PRs from approved participants will be considered official entries.  
 5. **External libraries are allowed.**  
-   - Python: `pip install ANYTHING`  
-   - Node.js: `npm install ANYTHING`  
    - Using obscure, cursed, or deprecated libraries is highly encouraged.  
 6. **AI usage is allowed – and valued.**  
    - Local models, API calls, fine-tuned models, agents, LLMs, diffusion models…  
@@ -71,8 +69,6 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
   [rosepetal-ai/ROCC-2025/projectName](https://github.com/rosepetal-ai/ROCC-2025/)
 
 - 🧑‍💻 **File naming format:**  
-   - `script.py` // Python  
-   - `script.js` // Node.js
    - `flows.json` // Node-RED
    - `README.md` // short description  
 
