@@ -55,11 +55,11 @@ We celebrate code that is **twisted in logic, inhuman in structure, funny in int
 
 ## 🏆 Prizes  
 
-| 🏅 Place | 💎 Reward | 🌸 Petal Equivalent |
-|----------|-----------|---------------------|
-| 🥇 **Grand Champion** | 200 petals | The GOAT |
-| 🥈 **Honorable Chaos** | 100 petals | Exclusive “Rosepetal Obfuscator” merch |
-| 🥉 **WTF Award** | 50 petals | Limited-edition sticker pack |
+| 🏅 Place | 💎 Reward |
+|----------|-----------|
+| 🥇 **Grand Champion** | 200 petals |
+| 🥈 **Honorable Chaos** | 100 petals |
+| 🥉 **WTF Award** | 50 petals |
 
 ---
 
