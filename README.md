@@ -5,9 +5,9 @@
 
 ## 📋 Participants
 
-| 👤 Author | 💻 Language | 🌀 Obfuscation | ⚙️ Functionality | 🧬 Creativity | 🤖 AI Usage | 🎭 Humor & Style | 🧮 Total Score | 🏆 Status |
+| 👤 Author | 🌀 Obfuscation | ⚙️ Functionality | 🧬 Creativity | 🤖 AI Usage | 🎭 Humor & Style | 🧮 Total Score | 🏆 Status |
 |-----------|-------------|----------------|------------------|---------------|-------------|------------------|----------------|------------|
-| *(add here)* | *(Python / Node)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–50)* | *(Participating / Winner)* |
+| *(add here)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–10)* | *(0–50)* | *(Participating / Winner)* |
 
 ---
 
